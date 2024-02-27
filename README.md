@@ -90,10 +90,11 @@ For more information on development and build processes, refer to the documentat
 
 CitrusCinema is brought to you by:
 
--Aadil
+-[Aadil](https://www.linkedin.com/in/aadil-chattha/)
 -Andrii
 -Valentijn
 
 ### License
 
 This project is licensed under the MIT License.
+- **Deployment Link**: https://citrus-cinema.netlify.app/
